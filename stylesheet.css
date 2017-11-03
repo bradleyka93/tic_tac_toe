@@ -1,0 +1,12 @@
+.col {
+  border-style: dotted;
+  height: 250px;
+}
+
+.ex {
+  background-color: red;
+}
+
+.oh {
+  background-color: green;
+}
